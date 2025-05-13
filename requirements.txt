@@ -1,0 +1,5 @@
+# Python dependencies for hao-backprop-test application
+# Maintains minimal dependency footprint with only essential packages
+
+# Web framework for HTTP server implementation
+Flask>=2.0,<3.0
